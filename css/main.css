@@ -1,9 +1,14 @@
 body{
   color: lightblue;
+  font-size: 100%;
 }
 p{
   font-size: 300%;
 }
 li{
   color: red;
+}
+h1{
+  color: limegreen;
+  text-align: center;
 }
